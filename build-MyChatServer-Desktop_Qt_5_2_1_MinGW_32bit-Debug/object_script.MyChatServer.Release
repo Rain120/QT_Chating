@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\serverwidget.o
+./release\tcpserver.o
+./release\common.o
+./release\userserver.o
+./release\userclient.o
+./release\database.o
+./release\tcpclientsocket.o
+./release\moc_serverwidget.o
+./release\moc_tcpserver.o
+./release\moc_userserver.o
+./release\moc_userclient.o
+./release\moc_tcpclientsocket.o
+);

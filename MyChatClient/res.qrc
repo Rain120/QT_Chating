@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>res/add-contact.png</file>
+        <file>res/chat.png</file>
+        <file>res/group-button.png</file>
+        <file>res/happy.png</file>
+        <file>res/menu.png</file>
+        <file>res/message.png</file>
+        <file>res/open-archive.png</file>
+        <file>res/phone-call.png</file>
+        <file>res/picture.png</file>
+        <file>res/scissors.png</file>
+        <file>res/video-camera.png</file>
+        <file>res/woman-hair.png</file>
+        <file>res/search-magnifier-interface-symbol.png</file>
+        <file>res/multiply.png</file>
+        <file>res/tick.png</file>
+    </qresource>
+</RCC>

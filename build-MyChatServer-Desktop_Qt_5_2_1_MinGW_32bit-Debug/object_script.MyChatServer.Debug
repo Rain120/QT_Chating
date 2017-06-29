@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\serverwidget.o
+./debug\tcpserver.o
+./debug\common.o
+./debug\userserver.o
+./debug\userclient.o
+./debug\database.o
+./debug\tcpclientsocket.o
+./debug\moc_serverwidget.o
+./debug\moc_tcpserver.o
+./debug\moc_userserver.o
+./debug\moc_userclient.o
+./debug\moc_tcpclientsocket.o
+);
